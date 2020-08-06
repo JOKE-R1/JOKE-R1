@@ -43,8 +43,8 @@
 
 
 [website]: https://thegrowwers.com
-[twitter]: https://twitter.com/codeSTACKr
-[youtube]: https://youtube.com/Ayushmauryavanshi
+[twitter]: https://twitter.com/ayush_maurya0
+[youtube]: https://www.youtube.com/channel/UCjoyei9q_eHpU48aoYi4WIg/featured
 [instagram]: https://instagram.com/ayush_mauryavanshi
 [linkedin]: https://linkedin.com/in/ayush_mauryavanshi
 [webdevplaylist]: https://www.youtube.com/playlist?list=PLkwxH9e_vrAJ0WbEsFA9W3I1W-g_BTsbt
