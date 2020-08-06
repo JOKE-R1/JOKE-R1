@@ -40,13 +40,13 @@
 <br>
 
 
-<img align="left" alt="codeSTACKr's Github Stats" src="https://github-readme-stats.vercel.app/api?username=codeSTACKr&show_icons=true&hide_border=true" /> -->
+<img align="left" alt="JOKE-R1's Github Stats" src="https://github-readme-stats.vercel.app/api?username=JOKE-R1 &show_icons=true&hide_border=true" /> -->
 
-[website]: https://codeSTACKr.com
+[website]: https://thegrowwers.com
 [twitter]: https://twitter.com/codeSTACKr
-[youtube]: https://youtube.com/codeSTACKr
-[instagram]: https://instagram.com/codeSTACKr
-[linkedin]: https://linkedin.com/in/codeSTACKr
+[youtube]: https://youtube.com/Ayushmauryavanshi
+[instagram]: https://instagram.com/ayush_mauryavanshi
+[linkedin]: https://linkedin.com/in/ayush_mauryavanshi
 [webdevplaylist]: https://www.youtube.com/playlist?list=PLkwxH9e_vrAJ0WbEsFA9W3I1W-g_BTsbt
 [jsplaylist]: https://www.youtube.com/playlist?list=PLkwxH9e_vrALRJKu7wfXby3MKeflhTu6B
 [cssplaylist]: https://www.youtube.com/playlist?list=PLkwxH9e_vrALSdvZuEh6gqQdmDoDIoqz4
