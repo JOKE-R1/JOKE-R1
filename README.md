@@ -1,4 +1,4 @@
-### I'm Ayush - aka [JOKER-R1][website] 👋
+### I'm Ayush -  [JOKER-R1][githubuser] 👋
 
 ## I'm a Developer, and Teacher!
 - 🔭 I’m currently working on a [THE GROWWERS][website]!
@@ -51,3 +51,4 @@
 [jsplaylist]: https://www.youtube.com/playlist?list=PLkwxH9e_vrALRJKu7wfXby3MKeflhTu6B
 [cssplaylist]: https://www.youtube.com/playlist?list=PLkwxH9e_vrALSdvZuEh6gqQdmDoDIoqz4
 [reactplaylist]: https://www.youtube.com/playlist?list=PLkwxH9e_vrAK4TdffpxKY3QGyHCpxFcQ0
+[githubuser]: https://github.com/JOKE-R1
