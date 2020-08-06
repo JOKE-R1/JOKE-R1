@@ -46,7 +46,7 @@
 [twitter]: https://twitter.com/ayush_maurya0
 [youtube]: https://www.youtube.com/channel/UCjoyei9q_eHpU48aoYi4WIg/featured
 [instagram]: https://instagram.com/ayush_mauryavanshi
-[linkedin]: https://linkedin.com/in/ayush_mauryavanshi
+[linkedin]: https://www.linkedin.com/in/ayush-mauryavanshi-b6482b1a0/
 [webdevplaylist]: https://www.youtube.com/playlist?list=PLkwxH9e_vrAJ0WbEsFA9W3I1W-g_BTsbt
 [jsplaylist]: https://www.youtube.com/playlist?list=PLkwxH9e_vrALRJKu7wfXby3MKeflhTu6B
 [cssplaylist]: https://www.youtube.com/playlist?list=PLkwxH9e_vrALSdvZuEh6gqQdmDoDIoqz4
