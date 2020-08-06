@@ -40,7 +40,7 @@
 <br>
 
 
-<img align="left" alt="JOKE-R1's Github Stats" src="https://github-readme-stats.vercel.app/api?username=JOKE-R1 &show_icons=true&hide_border=true" /> -->
+
 
 [website]: https://thegrowwers.com
 [twitter]: https://twitter.com/codeSTACKr
